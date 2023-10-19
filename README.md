@@ -264,3 +264,14 @@ BASED ON: [Core iOS Application Architecture](https://github.com/bartleby/Core-i
 * Artem Korenev - [LinkedIn](https://www.linkedin.com/in/artem-korenev-42b320243/)
 * Aleksei Artemev - [iDevs.io](https://idevs.io)
 * CustomerTimes iOS team - [Customertimes.com](https://customertimes.com/)
+
+## ☕️ Donate:
+If you find this repository useful, you can thank me
+
+[![](https://img.shields.io/badge/-Buy%20me%20a%20coffee-EDD347?logo=ko-fi)](https://www.buymeacoffee.com/x68mf5jw4yl) 
+
+Or give a star the repository
+
+[![](https://img.shields.io/badge/Star_on-GitHub-lightgrey.svg)](https://github.com/maukur/SwiftUI-Viper-Architecture)<br>
+
+
