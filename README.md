@@ -92,7 +92,7 @@ swift install.swift
 ```swift
 Open Xcode
 File > New > Project or press shortcuts ⇧⌘N
-Choice VIPER Architecture
+Select VIPER Architecture
 Profit! 🎉
 ```
 #### Project structure
@@ -151,7 +151,7 @@ Open Xcode Project
 Select Modules in Xcode Project Navigator
 Create new file
 File > New > File... or press shortcuts ⌘N
-Choice Module or Service
+Select Module or Service
 Enter Name
 After you have created a Module you need to remove the reference on the folder
 Highlight the Folder in the Xcode Project Navigator
@@ -198,7 +198,7 @@ Open Xcode Project
 Select Services in Xcode Project Navigator
 Create new file
 File > New > File... or press shortcuts ⌘N
-Choice Module or Service
+Select Module or Service
 Enter Name (if you want to create "Service" you must specify at the end of the name "Service" for example - NetworkService or SettingsService)
 After you have created a Service you need to remove the reference on the folder
 Highlight the Folder in the Xcode Project Navigator
