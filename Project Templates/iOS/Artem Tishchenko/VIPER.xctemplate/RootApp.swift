@@ -17,9 +17,7 @@ class RootApp: App {
     let container: DependencyContainer = {
         let factory = AssemblyFactory()
         let container = DependencyContainer(assemblyFactory: factory)
-        
-        container.apply(NavigationAssembly.self)
-        
+                
         // Services
         container.apply(NavigationAssembly.self)
     
