@@ -77,8 +77,8 @@ swift install.swift
 
 ## Requirements
 
-* Xcode 10+
-* Swift 4.2+
+* Xcode 14+
+* Swift 5.7+
 
 ## Example project
 
